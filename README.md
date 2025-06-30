@@ -55,4 +55,4 @@ If you use this implementation, please cite the original paper:
 }
 ```
 
-> Maintained by Sakshi | Internship at DRDO SAG (June 2025 – Present)
+> Maintained by Sakshi | Internship at DRDO SAG (June 2025 – July 2025)
